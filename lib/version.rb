@@ -1,3 +1,3 @@
 module CP
-  VERSION    = '6.1.3.4' 
+  VERSION    = '6.1.3.5' 
 end  
